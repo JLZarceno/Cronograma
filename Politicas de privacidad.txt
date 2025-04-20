@@ -1,0 +1,26 @@
+Última actualización: [Fecha]
+1. Introducción
+Esta Política de Privacidad describe cómo [Nombre de tu app] recopila, utiliza y protege la información personal de los usuarios. Estamos comprometidos con la seguridad de los datos y el cumplimiento de las leyes aplicables, como el RGPD y la LOPD.
+2. Información que recopilamos
+- Datos personales: Nombre, correo electrónico, etc.
+- Datos de uso: Información sobre cómo interactúas con la app.
+- Cookies: Para mejorar la experiencia del usuario.
+
+3. Uso de la información
+- Personalizar la experiencia del usuario.
+- Mejorar la funcionalidad de la app.
+- Enviar notificaciones relacionadas con el cronograma.
+
+4. Compartir información
+No compartimos información personal con terceros, excepto cuando sea necesario para cumplir con la ley o mejorar el servicio.
+5. Seguridad de los datos
+Implementamos medidas técnicas y organizativas para proteger la información contra accesos no autorizados.
+6. Derechos del usuario
+- Acceso, rectificación y eliminación de datos.
+- Oposición al tratamiento de datos.
+- Portabilidad de datos.
+
+7. Cambios en la política
+Nos reservamos el derecho de actualizar esta política. Notificaremos a los usuarios sobre cualquier cambio significativo.
+8. Contacto
+Si tienes preguntas sobre esta política, contáctanos en [correo electrónico].
